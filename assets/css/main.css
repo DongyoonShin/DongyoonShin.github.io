@@ -3680,7 +3680,7 @@ input, select, textarea {
 	}
 
 		#footer > * {
-			width: calc(50% - 2em);
+			width: calc(100% - 2em);
 			margin-left: 2em;
 		}
 
